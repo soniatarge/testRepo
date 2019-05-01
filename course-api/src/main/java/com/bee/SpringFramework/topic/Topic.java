@@ -16,6 +16,7 @@ public class Topic {
 	}
 
 	public int getId() {
+		System.out.println("sadasd");
 		return id;
 	}
 
